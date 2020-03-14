@@ -4926,7 +4926,7 @@
         "name"     : "Unison_size",
         "tooltip"  : "Number of subvoices",
         "type"     : "i",
-        "range"    : [0,50],
+        "range"    : [1,50],
         "default"  : "1"
 
     },
