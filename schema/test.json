@@ -421,7 +421,7 @@
         "path"     : "/part[0,15]/kit[0,15]/padpars/FreqEnvelope/Pforcedrelease",
         "shortname": "frcr",
         "name"     : "Pforcedrelease",
-        "tooltip"  : "Force Envelope to fully evaluate",
+        "tooltip"  : "Forced release",
         "type"     : "t",
         "default"  : "false"
 
@@ -578,7 +578,7 @@
         "path"     : "/part[0,15]/kit[0,15]/padpars/AmpEnvelope/Pforcedrelease",
         "shortname": "frcr",
         "name"     : "Pforcedrelease",
-        "tooltip"  : "Force Envelope to fully evaluate",
+        "tooltip"  : "Forced release",
         "type"     : "t",
         "default"  : "false"
 
@@ -735,7 +735,7 @@
         "path"     : "/part[0,15]/kit[0,15]/padpars/FilterEnvelope/Pforcedrelease",
         "shortname": "frcr",
         "name"     : "Pforcedrelease",
-        "tooltip"  : "Force Envelope to fully evaluate",
+        "tooltip"  : "Forced release",
         "type"     : "t",
         "default"  : "false"
 
@@ -4159,7 +4159,7 @@
         "path"     : "/part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/Pforcedrelease",
         "shortname": "frcr",
         "name"     : "Pforcedrelease",
-        "tooltip"  : "Force Envelope to fully evaluate",
+        "tooltip"  : "Forced release",
         "type"     : "t",
         "default"  : "false"
 
@@ -4316,7 +4316,7 @@
         "path"     : "/part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/Pforcedrelease",
         "shortname": "frcr",
         "name"     : "Pforcedrelease",
-        "tooltip"  : "Force Envelope to fully evaluate",
+        "tooltip"  : "Forced release",
         "type"     : "t",
         "default"  : "false"
 
@@ -4473,7 +4473,7 @@
         "path"     : "/part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/Pforcedrelease",
         "shortname": "frcr",
         "name"     : "Pforcedrelease",
-        "tooltip"  : "Force Envelope to fully evaluate",
+        "tooltip"  : "Forced release",
         "type"     : "t",
         "default"  : "false"
 
@@ -4630,7 +4630,7 @@
         "path"     : "/part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/Pforcedrelease",
         "shortname": "frcr",
         "name"     : "Pforcedrelease",
-        "tooltip"  : "Force Envelope to fully evaluate",
+        "tooltip"  : "Forced release",
         "type"     : "t",
         "default"  : "false"
 
@@ -4787,7 +4787,7 @@
         "path"     : "/part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/Pforcedrelease",
         "shortname": "frcr",
         "name"     : "Pforcedrelease",
-        "tooltip"  : "Force Envelope to fully evaluate",
+        "tooltip"  : "Forced release",
         "type"     : "t",
         "default"  : "false"
 
@@ -6225,7 +6225,7 @@
         "path"     : "/part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/Pforcedrelease",
         "shortname": "frcr",
         "name"     : "Pforcedrelease",
-        "tooltip"  : "Force Envelope to fully evaluate",
+        "tooltip"  : "Forced release",
         "type"     : "t",
         "default"  : "false"
 
@@ -6382,7 +6382,7 @@
         "path"     : "/part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/Pforcedrelease",
         "shortname": "frcr",
         "name"     : "Pforcedrelease",
-        "tooltip"  : "Force Envelope to fully evaluate",
+        "tooltip"  : "Forced release",
         "type"     : "t",
         "default"  : "false"
 
@@ -6539,7 +6539,7 @@
         "path"     : "/part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/Pforcedrelease",
         "shortname": "frcr",
         "name"     : "Pforcedrelease",
-        "tooltip"  : "Force Envelope to fully evaluate",
+        "tooltip"  : "Forced release",
         "type"     : "t",
         "default"  : "false"
 
@@ -7485,7 +7485,7 @@
         "path"     : "/part[0,15]/kit[0,15]/subpars/AmpEnvelope/Pforcedrelease",
         "shortname": "frcr",
         "name"     : "Pforcedrelease",
-        "tooltip"  : "Force Envelope to fully evaluate",
+        "tooltip"  : "Forced release",
         "type"     : "t",
         "default"  : "false"
 
@@ -7642,7 +7642,7 @@
         "path"     : "/part[0,15]/kit[0,15]/subpars/FreqEnvelope/Pforcedrelease",
         "shortname": "frcr",
         "name"     : "Pforcedrelease",
-        "tooltip"  : "Force Envelope to fully evaluate",
+        "tooltip"  : "Forced release",
         "type"     : "t",
         "default"  : "false"
 
@@ -7799,7 +7799,7 @@
         "path"     : "/part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/Pforcedrelease",
         "shortname": "frcr",
         "name"     : "Pforcedrelease",
-        "tooltip"  : "Force Envelope to fully evaluate",
+        "tooltip"  : "Forced release",
         "type"     : "t",
         "default"  : "false"
 
@@ -7956,7 +7956,7 @@
         "path"     : "/part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/Pforcedrelease",
         "shortname": "frcr",
         "name"     : "Pforcedrelease",
-        "tooltip"  : "Force Envelope to fully evaluate",
+        "tooltip"  : "Forced release",
         "type"     : "t",
         "default"  : "false"
 
